@@ -1,3 +1,3 @@
-hello world - feature branch
+hello world - master branch
 
 from the 2nd branch of the repository.
